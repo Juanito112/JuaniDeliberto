@@ -4,7 +4,7 @@
     height: 250px;
     width: 100%;
     display: flex;
-    
+
     justify-content: space-between;
     border-style: solid;
 
@@ -13,7 +13,6 @@
 .item1 {
 
     background-color: rgb(255, 0, 0);
-
     font-size: 30px;
     width: 200px;
     height: 100%;
@@ -28,7 +27,6 @@
 
 .item2 {
     background-color: rgb(0, 17, 255);
-
     font-size: 30px;
     width: 200px;
     height: 100%;
@@ -39,8 +37,7 @@
 }
 
 .item3 {
-    background-color:  rgb(23, 102, 3);
-
+    background-color: rgb(23, 102, 3);
     font-size: 30px;
     width: 200px;
     height: 100%;
@@ -49,6 +46,7 @@
     justify-content: center;
     align-items: center;
 }
+
 /* fin ejemplo 1 */
 
 /* ejemplo2*/
@@ -68,7 +66,6 @@
 .item1E2 {
 
     background-color: rgb(255, 0, 0);
-
     font-size: 30px;
     width: 200px;
     height: 100px;
@@ -83,19 +80,6 @@
 
 .item2E2 {
     background-color: rgb(0, 17, 255);
-
-    font-size: 30px;
-    width: 200px;
-    height:100px;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.item3E2 {
-    background-color:  rgb(23, 102, 3);
-
     font-size: 30px;
     width: 200px;
     height: 100px;
@@ -104,6 +88,18 @@
     justify-content: center;
     align-items: center;
 }
+
+.item3E2 {
+    background-color: rgb(23, 102, 3);
+    font-size: 30px;
+    width: 200px;
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* fin ejemplo 2*/
 
 /* ejemplo3 */
@@ -113,17 +109,14 @@
     width: 600px;
     display: flex;
     flex-direction: column;
-    /* justify-content:; */
     border-style: solid;
-    
-    align-items:flex-end;
+    align-items: flex-end;
 
 }
 
 .item1E3 {
 
     background-color: rgb(255, 0, 0);
-
     font-size: 30px;
     width: 200px;
     height: 133px;
@@ -138,7 +131,6 @@
 
 .item2E3 {
     background-color: rgb(0, 17, 255);
-
     font-size: 30px;
     width: 200px;
     height: 133px;
@@ -150,7 +142,6 @@
 
 .item3E3 {
     background-color: rgb(23, 102, 3);
-
     font-size: 30px;
     width: 200px;
     height: 133.5px;
@@ -159,4 +150,5 @@
     justify-content: center;
     align-items: center;
 }
+
 /* fin ejemplo 3 */
