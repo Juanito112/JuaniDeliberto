@@ -74,17 +74,7 @@ aside {
 		color: #000;
 	}
 
-	/* nav a {
-		display: block;
-		text-decoration: none;
-
-		color: #fff;
-		font-family: sans-serif;
-		font-size: 14px;
-		background-color: #7e6b38;
-		border: 1px solid #050505;
-		border-radius: 3px;
-	} */
+	
 
 	nav a:hover {
 		background-color: #b38c0b;
